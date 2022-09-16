@@ -1,0 +1,44 @@
+body {
+  background: linear-gradient(90deg, #758ECD 0%, #A0DDFF 0%, #758ECD 100%);
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  width: 768px;
+  height: 100%;
+  border: 2px solid #14342B;
+}
+
+h1 {
+  color: #624CAB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.k-key {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #14342B;
+  margin: 3px;
+  padding: 3px;
+  float: left;
+}
+
+.clearfix {
+  width: 100%;
+  clear: both;
+}
+
+.active {
+  background: #7189FF;
+}
+
+.space {
+  width: 400px;
+  margin-left: 20%;
+}/*# sourceMappingURL=style.css.map */
